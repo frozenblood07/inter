@@ -11,8 +11,12 @@ You can get up and running quickly using any of the follow.
 ```
 Once command has finished executing, you should be able start hitting api at `http://localhost:8000`.
 
-Note: This requires you to have docker installed in your system
+```bash
+./stop.sh
+```
+Above command will stop the execution and free up the port
 
+Note: This requires you to have docker installed in your system
 
 ## API urls Collection
 This postman collection contains all the APIs
